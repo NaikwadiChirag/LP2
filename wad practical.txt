@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "chiraf"
+git remote add origin https://github.com/NaikwadiChirag/sanket.git
+git push -u origin main
